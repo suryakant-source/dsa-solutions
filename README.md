@@ -4,7 +4,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 
 ## Archive
 
-21 Python source files: 11 LeetCode and 10 Codeforces. Files are organized by site and problem slug or ID.
+22 Python source files: 12 LeetCode and 10 Codeforces. Files are organized by site and problem slug or ID.
 
 | Site | Problem | Code |
 | :--- | :--- | :--- |
@@ -18,6 +18,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 | codeforces | 734A | [Python source](codeforces/734A.py) |
 | codeforces | 96A | [Python source](codeforces/96A.py) |
 | codeforces | 977A | [Python source](codeforces/977A.py) |
+| leetcode | best-time-to-buy-and-sell-stock | [Python source](leetcode/best-time-to-buy-and-sell-stock.py) |
 | leetcode | add-digits | [Python source](leetcode/add-digits.py) |
 | leetcode | array-partition | [Python source](leetcode/array-partition.py) |
 | leetcode | largest-number | [Python source](leetcode/largest-number.py) |
