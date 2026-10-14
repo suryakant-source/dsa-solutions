@@ -4,7 +4,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 
 ## Archive
 
-26 Python source files: 14 LeetCode and 12 Codeforces. Files are organized by site and problem slug or ID.
+27 Python source files: 15 LeetCode and 12 Codeforces. Files are organized by site and problem slug or ID.
 
 | Site | Problem | Code |
 | :--- | :--- | :--- |
@@ -23,6 +23,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 | leetcode | best-time-to-buy-and-sell-stock | [Python source](leetcode/best-time-to-buy-and-sell-stock.py) |
 | leetcode | contains-duplicate | [Python source](leetcode/contains-duplicate.py) |
 | leetcode | maximum-subarray | [Python source](leetcode/maximum-subarray.py) |
+| leetcode | binary-search | [Python source](leetcode/binary-search.py) |
 | leetcode | add-digits | [Python source](leetcode/add-digits.py) |
 | leetcode | array-partition | [Python source](leetcode/array-partition.py) |
 | leetcode | largest-number | [Python source](leetcode/largest-number.py) |
