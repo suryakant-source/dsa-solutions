@@ -4,7 +4,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 
 ## Archive
 
-28 Python source files: 16 LeetCode and 12 Codeforces. Files are organized by site and problem slug or ID.
+29 Python source files: 17 LeetCode and 12 Codeforces. Files are organized by site and problem slug or ID.
 
 | Site | Problem | Code |
 | :--- | :--- | :--- |
@@ -25,6 +25,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 | leetcode | maximum-subarray | [Python source](leetcode/maximum-subarray.py) |
 | leetcode | binary-search | [Python source](leetcode/binary-search.py) |
 | leetcode | search-insert-position | [Python source](leetcode/search-insert-position.py) |
+| leetcode | sqrtx | [Python source](leetcode/sqrtx.py) |
 | leetcode | add-digits | [Python source](leetcode/add-digits.py) |
 | leetcode | array-partition | [Python source](leetcode/array-partition.py) |
 | leetcode | largest-number | [Python source](leetcode/largest-number.py) |
