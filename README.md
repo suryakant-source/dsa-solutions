@@ -4,7 +4,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 
 ## Archive
 
-37 Python source files: 22 LeetCode and 15 Codeforces. Files are organized by site and problem slug or ID.
+38 Python source files: 23 LeetCode and 15 Codeforces. Files are organized by site and problem slug or ID.
 
 | Site | Problem | Code |
 | :--- | :--- | :--- |
@@ -34,6 +34,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 | leetcode | pascals-triangle | [Python source](leetcode/pascals-triangle.py) |
 | leetcode | valid-palindrome | [Python source](leetcode/valid-palindrome.py) |
 | leetcode | two-sum-ii | [Python source](leetcode/two-sum-ii.py) |
+| leetcode | product-of-array-except-self | [Python source](leetcode/product-of-array-except-self.py) |
 | leetcode | add-digits | [Python source](leetcode/add-digits.py) |
 | leetcode | array-partition | [Python source](leetcode/array-partition.py) |
 | leetcode | largest-number | [Python source](leetcode/largest-number.py) |
