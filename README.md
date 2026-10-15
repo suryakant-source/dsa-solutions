@@ -4,7 +4,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 
 ## Archive
 
-35 Python source files: 20 LeetCode and 15 Codeforces. Files are organized by site and problem slug or ID.
+36 Python source files: 21 LeetCode and 15 Codeforces. Files are organized by site and problem slug or ID.
 
 | Site | Problem | Code |
 | :--- | :--- | :--- |
@@ -32,6 +32,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 | leetcode | subarrays-distinct-element-sum-of-squares-i | [Python source](leetcode/subarrays-distinct-element-sum-of-squares-i.py) |
 | leetcode | climbing-stairs | [Python source](leetcode/climbing-stairs.py) |
 | leetcode | pascals-triangle | [Python source](leetcode/pascals-triangle.py) |
+| leetcode | valid-palindrome | [Python source](leetcode/valid-palindrome.py) |
 | leetcode | add-digits | [Python source](leetcode/add-digits.py) |
 | leetcode | array-partition | [Python source](leetcode/array-partition.py) |
 | leetcode | largest-number | [Python source](leetcode/largest-number.py) |
