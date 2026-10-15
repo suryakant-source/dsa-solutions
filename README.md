@@ -4,7 +4,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 
 ## Archive
 
-44 Python source files: 26 LeetCode and 18 Codeforces. Files are organized by site and problem slug or ID.
+48 Python source files: 28 LeetCode and 20 Codeforces. Files are organized by site and problem slug or ID.
 
 | Site | Problem | Code |
 | :--- | :--- | :--- |
@@ -14,6 +14,8 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 | codeforces | 148A | [Python source](codeforces/148A.py) |
 | codeforces | 61A | [Python source](codeforces/61A.py) |
 | codeforces | 478A | [Python source](codeforces/478A.py) |
+| codeforces | 1350A | [Python source](codeforces/1350A.py) |
+| codeforces | 1352C | [Python source](codeforces/1352C.py) |
 | codeforces | 1339A | [Python source](codeforces/1339A.py) |
 | codeforces | 1348A | [Python source](codeforces/1348A.py) |
 | codeforces | 116A | [Python source](codeforces/116A.py) |
@@ -41,6 +43,8 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 | leetcode | longest-consecutive-subsequence | [Python source](leetcode/longest-consecutive-subsequence.py) |
 | leetcode | gas-station | [Python source](leetcode/gas-station.py) |
 | leetcode | maximum-product-subarray | [Python source](leetcode/maximum-product-subarray.py) |
+| leetcode | kth-largest-element-in-an-array | [Python source](leetcode/kth-largest-element-in-an-array.py) |
+| leetcode | generate-parentheses | [Python source](leetcode/generate-parentheses.py) |
 | leetcode | add-digits | [Python source](leetcode/add-digits.py) |
 | leetcode | array-partition | [Python source](leetcode/array-partition.py) |
 | leetcode | largest-number | [Python source](leetcode/largest-number.py) |
