@@ -4,7 +4,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 
 ## Archive
 
-38 Python source files: 23 LeetCode and 15 Codeforces. Files are organized by site and problem slug or ID.
+39 Python source files: 23 LeetCode and 16 Codeforces. Files are organized by site and problem slug or ID.
 
 | Site | Problem | Code |
 | :--- | :--- | :--- |
@@ -13,6 +13,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 | codeforces | 110A | [Python source](codeforces/110A.py) |
 | codeforces | 148A | [Python source](codeforces/148A.py) |
 | codeforces | 61A | [Python source](codeforces/61A.py) |
+| codeforces | 478A | [Python source](codeforces/478A.py) |
 | codeforces | 116A | [Python source](codeforces/116A.py) |
 | codeforces | 236A | [Python source](codeforces/236A.py) |
 | codeforces | 281A | [Python source](codeforces/281A.py) |
