@@ -4,7 +4,7 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 
 ## Archive
 
-91 Python source files: 71 LeetCode and 20 Codeforces. Files are organized by site and problem slug or ID; newer LeetCode files are named `NNNN-title.py`.
+137 Python source files: 117 LeetCode and 20 Codeforces. Files are organized by site and problem slug or ID; newer LeetCode files are named `NNNN-title.py`.
 
 | Site | Problem | Code |
 | :--- | :--- | :--- |
@@ -59,25 +59,69 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 
 ## LeetCode (numbered, with difficulty)
 
-43 accepted solutions. Each file starts with a comment header (number, title, difficulty, approach, complexity). All were submitted and accepted on LeetCode.
+89 accepted solutions. Each file starts with a comment header (number, title, difficulty, approach, complexity; solve date where recorded). All were submitted and accepted on LeetCode.
 
 | # | Title | Difficulty | Code |
 | ---: | :--- | :--- | :--- |
+| 17 | Letter Combinations of a Phone Number | Medium | [Python](leetcode/0017-letter-combinations-of-a-phone-number.py) |
+| 21 | Merge Two Sorted Lists | Easy | [Python](leetcode/0021-merge-two-sorted-lists.py) |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | [Python](leetcode/0034-find-first-and-last-position-of-element-in-sorted-array.py) |
+| 39 | Combination Sum | Medium | [Python](leetcode/0039-combination-sum.py) |
+| 40 | Combination Sum II | Medium | [Python](leetcode/0040-combination-sum-ii.py) |
+| 46 | Permutations | Medium | [Python](leetcode/0046-permutations.py) |
+| 47 | Permutations II | Medium | [Python](leetcode/0047-permutations-ii.py) |
+| 55 | Jump Game | Medium | [Python](leetcode/0055-jump-game.py) |
+| 62 | Unique Paths | Medium | [Python](leetcode/0062-unique-paths.py) |
+| 64 | Minimum Path Sum | Medium | [Python](leetcode/0064-minimum-path-sum.py) |
 | 74 | Search a 2D Matrix | Medium | [Python](leetcode/0074-search-a-2d-matrix.py) |
+| 77 | Combinations | Medium | [Python](leetcode/0077-combinations.py) |
+| 78 | Subsets | Medium | [Python](leetcode/0078-subsets.py) |
+| 79 | Word Search | Medium | [Python](leetcode/0079-word-search.py) |
 | 81 | Search in Rotated Sorted Array II | Medium | [Python](leetcode/0081-search-in-rotated-sorted-array-ii.py) |
+| 90 | Subsets II | Medium | [Python](leetcode/0090-subsets-ii.py) |
+| 91 | Decode Ways | Medium | [Python](leetcode/0091-decode-ways.py) |
+| 104 | Maximum Depth of Binary Tree | Easy | [Python](leetcode/0104-maximum-depth-of-binary-tree.py) |
+| 131 | Palindrome Partitioning | Medium | [Python](leetcode/0131-palindrome-partitioning.py) |
+| 136 | Single Number | Easy | [Python](leetcode/0136-single-number.py) |
+| 139 | Word Break | Medium | [Python](leetcode/0139-word-break.py) |
+| 141 | Linked List Cycle | Easy | [Python](leetcode/0141-linked-list-cycle.py) |
 | 148 | Sort List | Medium | [Python](leetcode/0148-sort-list.py) |
+| 150 | Evaluate Reverse Polish Notation | Medium | [Python](leetcode/0150-evaluate-reverse-polish-notation.py) |
+| 155 | Min Stack | Medium | [Python](leetcode/0155-min-stack.py) |
 | 162 | Find Peak Element | Medium | [Python](leetcode/0162-find-peak-element.py) |
+| 198 | House Robber | Medium | [Python](leetcode/0198-house-robber.py) |
+| 200 | Number of Islands | Medium | [Python](leetcode/0200-number-of-islands.py) |
+| 206 | Reverse Linked List | Easy | [Python](leetcode/0206-reverse-linked-list.py) |
+| 213 | House Robber II | Medium | [Python](leetcode/0213-house-robber-ii.py) |
+| 216 | Combination Sum III | Medium | [Python](leetcode/0216-combination-sum-iii.py) |
+| 225 | Implement Stack using Queues | Easy | [Python](leetcode/0225-implement-stack-using-queues.py) |
+| 226 | Invert Binary Tree | Easy | [Python](leetcode/0226-invert-binary-tree.py) |
+| 232 | Implement Queue using Stacks | Easy | [Python](leetcode/0232-implement-queue-using-stacks.py) |
+| 242 | Valid Anagram | Easy | [Python](leetcode/0242-valid-anagram.py) |
+| 268 | Missing Number | Easy | [Python](leetcode/0268-missing-number.py) |
 | 278 | First Bad Version | Easy | [Python](leetcode/0278-first-bad-version.py) |
+| 279 | Perfect Squares | Medium | [Python](leetcode/0279-perfect-squares.py) |
+| 300 | Longest Increasing Subsequence | Medium | [Python](leetcode/0300-longest-increasing-subsequence.py) |
+| 322 | Coin Change | Medium | [Python](leetcode/0322-coin-change.py) |
+| 344 | Reverse String | Easy | [Python](leetcode/0344-reverse-string.py) |
 | 367 | Valid Perfect Square | Easy | [Python](leetcode/0367-valid-perfect-square.py) |
+| 387 | First Unique Character in a String | Easy | [Python](leetcode/0387-first-unique-character-in-a-string.py) |
+| 392 | Is Subsequence | Easy | [Python](leetcode/0392-is-subsequence.py) |
 | 410 | Split Array Largest Sum | Hard | [Python](leetcode/0410-split-array-largest-sum.py) |
+| 416 | Partition Equal Subset Sum | Medium | [Python](leetcode/0416-partition-equal-subset-sum.py) |
 | 441 | Arranging Coins | Easy | [Python](leetcode/0441-arranging-coins.py) |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | [Python](leetcode/0452-minimum-number-of-arrows-to-burst-balloons.py) |
+| 518 | Coin Change II | Medium | [Python](leetcode/0518-coin-change-ii.py) |
+| 560 | Subarray Sum Equals K | Medium | [Python](leetcode/0560-subarray-sum-equals-k.py) |
 | 611 | Valid Triangle Number | Medium | [Python](leetcode/0611-valid-triangle-number.py) |
 | 658 | Find K Closest Elements | Medium | [Python](leetcode/0658-find-k-closest-elements.py) |
 | 668 | Kth Smallest Number in Multiplication Table | Hard | [Python](leetcode/0668-kth-smallest-number-in-multiplication-table.py) |
 | 719 | Find K-th Smallest Pair Distance | Hard | [Python](leetcode/0719-find-k-th-smallest-pair-distance.py) |
+| 739 | Daily Temperatures | Medium | [Python](leetcode/0739-daily-temperatures.py) |
+| 740 | Delete and Earn | Medium | [Python](leetcode/0740-delete-and-earn.py) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [Python](leetcode/0744-find-smallest-letter-greater-than-target.py) |
+| 746 | Min Cost Climbing Stairs | Easy | [Python](leetcode/0746-min-cost-climbing-stairs.py) |
+| 784 | Letter Case Permutation | Medium | [Python](leetcode/0784-letter-case-permutation.py) |
 | 786 | K-th Smallest Prime Fraction | Hard | [Python](leetcode/0786-k-th-smallest-prime-fraction.py) |
 | 852 | Peak Index in a Mountain Array | Medium | [Python](leetcode/0852-peak-index-in-a-mountain-array.py) |
 | 867 | Transpose Matrix | Easy | [Python](leetcode/0867-transpose-matrix.py) |
@@ -106,6 +150,8 @@ LeetCode and Codeforces practice solutions, prepared with an AI-assisted workflo
 | 2517 | Maximum Tastiness of Candy Basket | Medium | [Python](leetcode/2517-maximum-tastiness-of-candy-basket.py) |
 | 2560 | House Robber IV | Medium | [Python](leetcode/2560-house-robber-iv.py) |
 | 2616 | Minimize the Maximum Difference of Pairs | Medium | [Python](leetcode/2616-minimize-the-maximum-difference-of-pairs.py) |
+| 2916 | Subarrays Distinct Element Sum of Squares II | Hard | [Python](leetcode/2916-subarrays-distinct-element-sum-of-squares-ii.py) |
+| 3551 | Minimum Swaps to Sort by Digit Sum | Medium | [Python](leetcode/3551-minimum-swaps-to-sort-by-digit-sum.py) |
 
 Only real file changes are committed at their actual commit time. No backdated or empty commits. This is a practice archive, not a claim of unaided problem-solving.
 
