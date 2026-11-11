@@ -1,5 +1,5 @@
 # LeetCode 3693. Climbing Stairs II
-https://leetcode.com/problems/climbing-stairs-ii/
+# https://leetcode.com/problems/climbing-stairs-ii/
 # Accepted as Suryakant_16 on 2026-11-10 07:24:51 IST (1005/1005 testcases)
 # Practice solution written with AI assistance for daily DSA practice
 
