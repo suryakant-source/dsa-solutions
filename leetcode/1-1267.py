@@ -1,5 +1,5 @@
 # LeetCode 1267. Count Servers that Communicate
-https://leetcode.com/problems/count-servers-that-communicate/
+# https://leetcode.com/problems/count-servers-that-communicate/
 # Accepted as Suryakant_16 on 2026-11-08 07:25:32 IST (55/55 testcases)
 # Practice solution written with AI assistance for daily DSA practice
 
