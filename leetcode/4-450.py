@@ -1,5 +1,5 @@
 # LeetCode 450. Delete Node in a BST
-https://leetcode.com/problems/delete-node-in-a-bst/
+# https://leetcode.com/problems/delete-node-in-a-bst/
 # Accepted as Suryakant_16 on 2026-11-08 16:55:23 IST (95/95 testcases)
 # Practice solution written with AI assistance for daily DSA practice
 
