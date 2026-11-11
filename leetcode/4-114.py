@@ -1,5 +1,5 @@
 # LeetCode 114. Flatten Binary Tree to Linked List
-https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+# https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 # Accepted as Suryakant_16 on 2026-11-09 16:36:30 IST (225/225 testcases)
 # Practice solution written with AI assistance for daily DSA practice
 
