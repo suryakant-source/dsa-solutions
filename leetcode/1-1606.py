@@ -1,5 +1,5 @@
 # LeetCode 1606. Find Servers That Handled Most Number of Requests
-https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/
+# https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/
 # Accepted as Suryakant_16 on 2026-11-09 07:24:50 IST (108/108 testcases)
 # Practice solution written with AI assistance for daily DSA practice
 
