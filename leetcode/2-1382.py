@@ -1,5 +1,5 @@
 # LeetCode 1382. Balance a Binary Search Tree
-https://leetcode.com/problems/balance-a-binary-search-tree/
+# https://leetcode.com/problems/balance-a-binary-search-tree/
 # Accepted as Suryakant_16 on 2026-11-09 10:43:20 IST (17/17 testcases)
 # Practice solution written with AI assistance for daily DSA practice
 
