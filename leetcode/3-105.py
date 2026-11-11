@@ -1,5 +1,5 @@
 # LeetCode 105. Construct Binary Tree from Preorder and Inorder Traversal
-https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+# https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 # Accepted as Suryakant_16 on 2026-11-10 13:39:27 IST (203/203 testcases)
 # Practice solution written with AI assistance for daily DSA practice
 
