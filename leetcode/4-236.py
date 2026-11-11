@@ -1,5 +1,5 @@
 # LeetCode 236. Lowest Common Ancestor of a Binary Tree
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+# https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 # Accepted as Suryakant_16 on 2026-11-10 16:37:03 IST (33/33 testcases)
 # Practice solution written with AI assistance for daily DSA practice
 
